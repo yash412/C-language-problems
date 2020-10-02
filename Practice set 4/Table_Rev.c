@@ -1,3 +1,5 @@
+// WAP to print table in reverse of the given number.
+
 #include<stdio.h>
 
 int main() {

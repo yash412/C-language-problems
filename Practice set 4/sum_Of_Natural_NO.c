@@ -1,3 +1,5 @@
+// WAP to print sum of 1st ten natural numbers using while loop.
+
 #include<stdio.h>
 
 int main() {
