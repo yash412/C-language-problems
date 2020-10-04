@@ -1,3 +1,5 @@
+// WAP to calculate the n'th element of fibonacchi series.
+
 #include<stdio.h>
 void Fibonachi_series();
 int main() {

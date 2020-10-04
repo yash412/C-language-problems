@@ -1,2 +1,0 @@
-d = add + w;
-    // printf("

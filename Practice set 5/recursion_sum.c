@@ -1,3 +1,5 @@
+// WAP using recursion to calculate the sum of 1'st n natural numbers.
+
 #include<stdio.h>
 int sum(int num);
 int sm;
