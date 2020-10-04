@@ -1,3 +1,5 @@
+// WAP a program to check the number is prime or not using while loop. 
+
 #include<stdio.h>
 #include<math.h>
 
